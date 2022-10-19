@@ -1,0 +1,6 @@
+You can get MostOfDavesClasses from here:
+https://github.com/DaveBrumbaugh/MostOfDavesClasses-CSharp-Wrappers-For-ProjectWise
+
+You will need to distribute the included .dll's in order to use all of the methods.
+
+You can get DllExporterNet4 from nuget.org.
